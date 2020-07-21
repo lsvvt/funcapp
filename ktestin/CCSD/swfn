@@ -1,0 +1,15 @@
+#!/bin/bash
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=72
+#SBATCH --ntasks-per-node=72
+#SBATCH --job-name=CCSD
+for inf in *.wfn
+do
+echo Running ${inf} ...
+Multiwfn ${inf} < genRHO.txt > /dev/null
+mv RDF.txt ${inf//.wfn}_RHO.rdf
+Multiwfn ${inf} < genGRD.txt > /dev/null
+mv RDF.txt ${inf//.wfn}_GRD.rdf
+Multiwfn ${inf} < genLR.txt > /dev/null
+mv RDF.txt ${inf//.wfn}_LR.rdf
+done

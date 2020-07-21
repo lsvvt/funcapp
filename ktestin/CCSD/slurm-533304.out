@@ -1,0 +1,434 @@
+Running B_+0_CCSDfull.wfn ...
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/30990/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002B127FA2BC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/31111/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002ACCEB247C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/31344/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF72325DC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+Running B_+3_CCSDfull.wfn ...
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/31769/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002B05B63FDC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/31869/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE63018AC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/32045/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002B0367C8FC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+Running Be_+0_CCSDfull.wfn ...
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/32283/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3DD2BB1C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/32397/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF64766BC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/32641/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFD4BE8EC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+Running C_+2_CCSDfull.wfn ...
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/33974/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB868FA4C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/34080/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF6D0AB4C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/34277/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002B98761B2C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+Running C_+4_CCSDfull.wfn ...
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/34598/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002B83252F0C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/34690/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002B717ED96C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/34852/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002B10B220AC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+Running F_+5_CCSDfull.wfn ...
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/35058/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002B03BDC78C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/35162/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAFE371DC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/35316/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA6112E5C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+Running F_+7_CCSDfull.wfn ...
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/35593/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF2B37AFC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/35677/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002ABFE074DC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/35798/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002B43E94ACC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+Running N_+3_CCSDfull.wfn ...
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/35984/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002B6EA0F0EC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/36087/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC553A40C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/36277/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002B70BD8BFC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+Running N_+5_CCSDfull.wfn ...
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/36542/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB14E15FC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/36637/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002ACA44C16C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/36783/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1D58965C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+Running Ne_+0_CCSDfull.wfn ...
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/36949/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA06F671C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/37046/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAD8293EC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/37197/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3925EDFC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+Running Ne_+6_CCSDfull.wfn ...
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/37431/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1069BD8C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/37520/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002B2E77326C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/37676/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB99F595C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+Running Ne_+8_CCSDfull.wfn ...
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/37891/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF0210CCC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/37974/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002B6D6FF76C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/38092/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002ABC0A96CC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+Running O_+4_CCSDfull.wfn ...
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/38235/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC0828F2C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/38327/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD7D8EA4C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/38504/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002ADA9C24FC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+Running O_+6_CCSDfull.wfn ...
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/38804/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF0B90CCC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/38890/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC7E99B1C05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/39020/fd/0
+Image              PC                Routine            Line        Source             
+Multiwfn           0000000001AF456B  Unknown               Unknown  Unknown
+Multiwfn           0000000001B22918  Unknown               Unknown  Unknown
+Multiwfn           00000000009CAFB2  Unknown               Unknown  Unknown
+Multiwfn           000000000096AA4B  Unknown               Unknown  Unknown
+Multiwfn           00000000007A736A  Unknown               Unknown  Unknown
+Multiwfn           0000000000430922  Unknown               Unknown  Unknown
+libc-2.17.so       00002B01207FAC05  __libc_start_main     Unknown  Unknown
+Multiwfn           0000000000430829  Unknown               Unknown  Unknown

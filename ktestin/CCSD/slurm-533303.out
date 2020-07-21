@@ -1,0 +1,98 @@
+Running B_+0_CCSDfull.wfn ...
+/var/spool/slurmd/job533303/slurm_script: line 9: genRHO.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 11: genGRD.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 13: genLR.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+Running B_+3_CCSDfull.wfn ...
+/var/spool/slurmd/job533303/slurm_script: line 9: genRHO.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 11: genGRD.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 13: genLR.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+Running Be_+0_CCSDfull.wfn ...
+/var/spool/slurmd/job533303/slurm_script: line 9: genRHO.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 11: genGRD.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 13: genLR.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+Running C_+2_CCSDfull.wfn ...
+/var/spool/slurmd/job533303/slurm_script: line 9: genRHO.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 11: genGRD.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 13: genLR.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+Running C_+4_CCSDfull.wfn ...
+/var/spool/slurmd/job533303/slurm_script: line 9: genRHO.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 11: genGRD.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 13: genLR.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+Running F_+5_CCSDfull.wfn ...
+/var/spool/slurmd/job533303/slurm_script: line 9: genRHO.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 11: genGRD.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 13: genLR.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+Running F_+7_CCSDfull.wfn ...
+/var/spool/slurmd/job533303/slurm_script: line 9: genRHO.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 11: genGRD.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 13: genLR.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+Running N_+3_CCSDfull.wfn ...
+/var/spool/slurmd/job533303/slurm_script: line 9: genRHO.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 11: genGRD.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 13: genLR.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+Running N_+5_CCSDfull.wfn ...
+/var/spool/slurmd/job533303/slurm_script: line 9: genRHO.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 11: genGRD.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 13: genLR.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+Running Ne_+0_CCSDfull.wfn ...
+/var/spool/slurmd/job533303/slurm_script: line 9: genRHO.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 11: genGRD.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 13: genLR.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+Running Ne_+6_CCSDfull.wfn ...
+/var/spool/slurmd/job533303/slurm_script: line 9: genRHO.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 11: genGRD.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 13: genLR.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+Running Ne_+8_CCSDfull.wfn ...
+/var/spool/slurmd/job533303/slurm_script: line 9: genRHO.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 11: genGRD.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 13: genLR.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+Running O_+4_CCSDfull.wfn ...
+/var/spool/slurmd/job533303/slurm_script: line 9: genRHO.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 11: genGRD.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 13: genLR.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+Running O_+6_CCSDfull.wfn ...
+/var/spool/slurmd/job533303/slurm_script: line 9: genRHO.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 11: genGRD.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
+/var/spool/slurmd/job533303/slurm_script: line 13: genLR.txt: No such file or directory
+mv: cannot stat ‘RDF.txt’: No such file or directory
