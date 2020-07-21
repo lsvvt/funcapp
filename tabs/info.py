@@ -5,6 +5,7 @@ import dash_html_components as html
 from inf import app
 
 layout = [dcc.Markdown("""
-### Info
-Много текста
+### Информация
+Функционалы:
+T
 """)] 

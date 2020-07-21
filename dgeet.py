@@ -82,14 +82,15 @@ def figf(ref, mass):
     fig.update_xaxes(matches='x')
     fig.update_yaxes(matches='y')
 
-    fig.update_layout(title='Database Error (' + ref + ")")
+    # fig.update_layout(title='Database Error (' + ref + ")")
 
     fig.update_layout(
                 font=dict(
                     family="Courier New, monospace",
                     size=16,
                     color="#7f7f7f"
-                )
+                ),
+                height = 800
             )
 
     return fig
@@ -254,14 +255,15 @@ def figrho(ref, metods):
     fig.update_xaxes(matches='x')
     fig.update_yaxes(matches='y')
 
-    fig.update_layout(title='RHO, GRD and LR Error (' + ref + ")")
+    # fig.update_layout(title='RHO, GRD and LR Error (' + ref + ")")
 
     fig.update_layout(
                 font=dict(
                     family="Courier New, monospace",
                     size=16,
                     color="#7f7f7f"
-                )
+                ),
+                height = 800
             )
 
     return fig
