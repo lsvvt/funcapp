@@ -37,7 +37,23 @@ def gg(x, y):
         xy.append([x[i], y[i]])
     return xy
 
-def figf(ref, mass):
+
+def dbcolor(db):
+    ref_E = {
+    "MGAE109":"lightcoral",
+    "IP13":"black",
+    "EA13":"tan",
+    "PA8":"gold",
+    "DBH76":"forestgreen",
+    "NCCE31":"navy",
+    "ABDE4":"chartreuse",
+    "AE17":"lightskyblue",
+    "pTC13":"darkorchid"
+    }
+    return ref_E[db]
+
+
+def figf(ref, mass, dbs):
     path = "Ferr/"
     j = True
 
@@ -59,7 +75,7 @@ def figf(ref, mass):
 
             xy = gg(x ,y)
             xy.sort(key = lambda x: x[0][1])
-            xy = np.array(xy)
+            # xy = np.array(xy)
 
             if k > 3:
                 i += 1
@@ -67,8 +83,20 @@ def figf(ref, mass):
 
             # print(k, i)
 
+            xyn = []
+
+            for db in xy:
+                if db[0][0] in dbs:
+                    xyn.append(db)
+            
+            # print(xy)
+
+            xy = np.array(xyn)
+
+            # print(xy)
+
             fig.add_trace(go.Scattergl(x = xy[:,1][:,1], y = xy[:,0][:,1], hovertext = xy[:,0][:,0], hoverinfo = "text",
-                                mode='markers',
+                                mode='markers', marker = {"color" : list(map(dbcolor ,xy[:,0][:,0]))},
                                 name=name, showlegend = False), i, k)
             fig.add_trace(go.Scattergl(x = np.linspace(minn, maxx, 2), y = np.linspace(minn, maxx, 2),
                                 mode='lines', name = ref, showlegend = j, marker={"color" : "gray"}), i, k)
