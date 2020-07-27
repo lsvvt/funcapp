@@ -67,7 +67,7 @@ def figf(ref, mass):
 
             # print(k, i)
 
-            fig.add_trace(go.Scattergl(x = xy[:,1][:,1], y = xy[:,0][:,1],
+            fig.add_trace(go.Scattergl(x = xy[:,1][:,1], y = xy[:,0][:,1], hovertext = xy[:,0][:,0], hoverinfo = "text",
                                 mode='markers',
                                 name=name, showlegend = False), i, k)
             fig.add_trace(go.Scattergl(x = np.linspace(minn, maxx, 2), y = np.linspace(minn, maxx, 2),
@@ -233,7 +233,7 @@ def figrho(ref, metods):
                 k = 1
 
         if metod != metods[0]:
-            fig.add_trace(go.Scattergl(x = xy[:,1][:,1], y = xy[:,0][:,1],
+            fig.add_trace(go.Scattergl(x = xy[:,1][:,1], y = xy[:,0][:,1], hovertext = list(map(lambda x: x.replace("_PBE0_", " ")[:-4].replace("_", " "), xy[:,0][:,0])), hoverinfo = "text",
                                 mode='markers',
                                 name=metod, showlegend = False), i, k)
             fig.add_trace(go.Scattergl(x = np.linspace(float(min(xy[:,0][:,1])), float(max(xy[:,0][:,1])), 2), y = np.linspace(float(min(xy[:,0][:,1])), float(max(xy[:,0][:,1])), 2),
